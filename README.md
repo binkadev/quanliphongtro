@@ -235,7 +235,7 @@ Through this project, I practiced:
 ## Author
 
 **Tran Hoang Hai**  
-Software Engineering D22 @ PTIT  
+Software Engineering D22 - PTIT  
 GitHub: [binkadev](https://github.com/binkadev)
 
 ---
